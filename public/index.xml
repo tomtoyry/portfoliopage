@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Raspberry pi hosted personal site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Raspberry pi hosted personal site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20.10.2025</title>
+      <link>http://localhost:1313/blog20.10.2025/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog20.10.2025/</guid>
+      <description>&lt;p&gt;I recently dug out my old dusty raspberry pi 4 from my old boxset. I was craving for a project, and since I got a decent laptop, I lost all use cases for the emulatorbox that the Raspi was originally inteded to be. I then decided to turn the raspi into a Pi-Hole, to block out nasty advertisements from my home network, regardless of the device in use. After that, the project spiraled further, I added Unbound for DNS handling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m an Application engineer / software engineer from Hollola, and I love technology and gaming.&lt;/p&gt;&#xA;&lt;p&gt;See more on the &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;Projects page&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact me!</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;mailto:tommitoyryla@outlook.com&#34;&gt;tommitoyryla@outlook.com&lt;/a&gt; |&#xA;&lt;a href=&#34;https://github.com/tomtoyry&#34;&gt;github &lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/tommitoyry/&#34;&gt;linkedin &lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description>&lt;p&gt;I am writing a blog here about my favourite things, such as technological leaps and gaming related stuff.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog20.10.2025/&#34;&gt;20.10.2025&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;I use Arch btw. Check my dotfiles from my github from &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Contact&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have worked on few small games that can be found on my Github as well!&lt;/p&gt;&#xA;&lt;p&gt;I love Python, C#, CODESYS, Raspi and webdev!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
